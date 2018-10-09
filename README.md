@@ -11,4 +11,4 @@ Um vídeo que me ajudou bastante foi do [OTRS Group](https://www.youtube.com/wat
 
 Espero ter ajudado. 
  
-:simple_smile:
+:grin:
