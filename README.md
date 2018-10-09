@@ -10,6 +10,5 @@ Estou compartilhando a informação depois de semanas "rodando" diversos fóruns
 Um vídeo que me ajudou bastante foi do [OTRS Group](https://www.youtube.com/watch?v=7iAcNjIi2Bo).
 
 Espero ter ajudado. 
-
-Forte abraço! 
-:smile:
+ 
+:simple_smile:
