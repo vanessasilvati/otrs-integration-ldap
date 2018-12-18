@@ -39,7 +39,7 @@ sub Load {
 
     # The password of database user. You also can use bin/otrs.Console.pl Maint::Database::PasswordCrypt
     # for crypted passwords
-    $Self->{'DatabasePw'} = 'Suporte@@2018';
+    $Self->{'DatabasePw'} = 'xxxxxxx';
 
     # The database DSN for MySQL ==> more: "perldoc DBD::mysql"
     $Self->{'DatabaseDSN'} = "DBI:mysql:database=$Self->{Database};host=$Self->{DatabaseHost}";
@@ -82,7 +82,7 @@ sub Load {
  CustomerUserSearchFields => [ 'login', 'first_name', 'last_name', 'customer_id' ],
  CustomerUserSearchPrefix => '*',
  CustomerUserSearchSuffix => '*',
- CustomerUserSearchListLimit => 250,
+ CustomerUserSearchListLimit => 230000,
  CustomerUserPostMasterSearchFields => ['email'],
  CustomerUserNameFields => [ 'title', 'first_name', 'last_name' ],
  CustomerUserEmailUniqCheck => 1,
